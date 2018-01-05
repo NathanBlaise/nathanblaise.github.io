@@ -1,0 +1,113 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="visionlobjectif.000webhostapp.com" resolutions="1x" timestamp="1512529310643">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3895703195" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="oincar.mp4" crc="412002904" seo="true" mt="1512521109000"/>
+    <file name="oincar.webm" crc="303212129" seo="true" mt="1512521644000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="brick.png" crc="289490157" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pink rose.png" crc="4280700398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4335.jpg" crc="370822870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4332.jpg" crc="3760184039" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4205.jpg" crc="3839396138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4214.jpg" crc="203361312" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4236.jpg" crc="307411729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u382-6.png" crc="276324332" ref="index"/>
+    <file name="u577-4.png" crc="4081228832" ref="index"/>
+    <file name="img_4553-crop-u592.jpg" crc="21441022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4597.jpg" crc="4260638161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4565.jpg" crc="90356719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4551.jpg" crc="137535317" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u666-4.png" crc="96844842" ref="index"/>
+    <file name="img_4372.jpg" crc="454258342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4576.jpg" crc="375003827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3260.jpg" crc="4045473047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u731-4.png" crc="3911872628" ref="index"/>
+    <file name="img_4622.jpg" crc="4134697396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4577.jpg" crc="3891490051" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4278.jpg" crc="393921681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4338.jpg" crc="4274476036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4588.jpg" crc="496711497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u805-4.png" crc="3937280868" ref="index"/>
+    <file name="img_4303.jpg" crc="306990625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4610.jpg" crc="4057906480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4330.jpg" crc="4051178363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4573.jpg" crc="4225961085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4595.jpg" crc="4225063246" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4607.jpg" crc="4061594569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4442.jpg" crc="3937777998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4371.jpg" crc="3884539695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1061-6.png" crc="4049476216" ref="index"/>
+    <file name="img_3946.jpg" crc="456403281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1082-4.png" crc="277976414" ref="index"/>
+  </folder>
+  <file name="index.html" crc="470398375" seo="true" mt="1512524726041" redirect="true"/>
+</manifest>
