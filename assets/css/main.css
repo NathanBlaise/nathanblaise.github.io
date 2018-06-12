@@ -3187,28 +3187,54 @@
 		padding: 0em 0 6em 0 ;
 	}
 
-        #main .blog-image img {
-            display: block;
-            width: 17em;
-            height: 20em;
+    #main .blog-image img {
+        display: block;
+        width: 17em;
+        height: 20em;
+    }
+
+    #main .inner #special-text {
+        color: #FFFFFF;
+        font-family: "Source Sans Pro", Helvetica, sans-serif;
+        font-size: 16pt;
+        font-weight: bold;
+        line-height: 1.75;
+        margin: 1em 0 1em 0;
+        transition: none;
+    }
+
+    #main .quote {
+        font-style: italic;
+    }
+
+    #main #narmi-image img{
+        height: 310px;
+        width: 410px;
+        padding-top: 30px;
+    }
+
+    #main .blog-figs{
+        display: inline-block;
+        width: 500 px;
+        margin-left: 20px;
+    }
+
+    #main .caption {
+        width: 350px;
+    }
+
+    #main .about {
+        font-size: 1.5em;
+    }
+
+    @media screen and (max-width: 736px) {
+
+        #main {
+            padding: 0em 0 4em 0 ;
         }
 
-#main .blog-figs{
-    display: inline-block;
-    margin-left: 30px;
-}
+    }
 
-        #main .about {
-            font-size: 1.5em;
-        }
-
-		@media screen and (max-width: 736px) {
-
-			#main {
-				padding: 0em 0 4em 0 ;
-			}
-
-		}
 
 /* Footer */
 
