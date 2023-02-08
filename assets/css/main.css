@@ -3190,21 +3190,6 @@
 			opacity: 1;
 		}
 
-/* Main Background */
-
-	#main-background {
-		width: 100%;
-		height: 100%;
-		position: absolute;
-		top: 0;
-		left: 0;
-	}
-
-	#main-background  svg {
-		position: absolute;
-		width: 5em;
-	}
-
 /* Main */
 
 	#main {
